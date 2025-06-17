@@ -1,0 +1,16 @@
+NCITIES             110
+SIDE_RADIUS                1
+SIMULATION_TYPE            2
+NPOP                500
+SELECTION_P            0.1
+NGEN                2000
+NMIGR               5000
+NPEOPLE             0
+NBLOCKS             1
+NSTEPS              1
+
+ 
+
+
+
+ENDINPUT

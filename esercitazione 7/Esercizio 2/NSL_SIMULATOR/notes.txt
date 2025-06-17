@@ -1,0 +1,2 @@
+Ho trovato che la temperatura da cui partire con 5000 passi di equilibrazione per la MD sia circa 2.015, con 10000 passi la temperatura efficace si alza leggermente, immagino a causa di fluttuazioni strane
+Per quanto riguarda il metropolis ho trovato che un delta di 0.1 fissi un ar intorno al 0.5

@@ -1,0 +1,9 @@
+RESTART                1
+DELTA                  0.001
+MU                     1.12
+SIGMA                  0.7
+NBLOCKS                2000
+NSTEPS                 10000
+EQSTEPS                500000
+
+ENDINPUT

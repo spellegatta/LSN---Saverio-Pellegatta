@@ -1,0 +1,12 @@
+NCITIES             34
+SIDE_RADIUS                1
+SIMULATION_TYPE            0
+NPOP                500
+SELECTION_P            0.1
+NGEN                1000
+
+
+
+
+
+ENDINPUT

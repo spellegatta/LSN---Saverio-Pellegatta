@@ -1,0 +1,16 @@
+H_AVERAGE
+KINETIC_ENERGY
+POTENTIAL_ENERGY
+PSI_SQUARED             40
+
+ 
+ENDPROPERTIES
+
+/////////////////////////////////////
+
+Possible properties:
+
+H_AVERAGE
+POTENTIAL_ENERGY
+KINETIC_ENERGY
+PSI_SQUARED         # bins
